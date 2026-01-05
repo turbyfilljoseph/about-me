@@ -1,0 +1,7 @@
+body { background-color: blanchedalmond;}
+h1 {color: darkgreen;}
+h2,h3 {color: olivedrab;}
+a {color: gold; background-color: dimgray;font-size:large; font-weight: bold; font-family:cursive; display: inline-block;}
+p,footer {color:orange;}
+section {margin-bottom: 40px;}
+.hobbies-table {background-color:lightcyan; color: orange;}
